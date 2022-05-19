@@ -98,8 +98,6 @@ export default {
                 width: fit-content;
                 background: transparent;
                 padding: 10px 13px;
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 14px;
                 line-height: 17px;
@@ -131,8 +129,6 @@ export default {
         }
 
         &__title{
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 400;
             font-size: 13px;
             line-height: 16px;
@@ -146,8 +142,6 @@ export default {
         }
 
         &__description{
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 300;
             font-size: 14px;
             line-height: 17px;
@@ -159,8 +153,6 @@ export default {
         }
 
         &__price{
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 400;
             font-size: 16px;
             line-height: 19px;

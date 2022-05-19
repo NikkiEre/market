@@ -63,8 +63,6 @@ export default {
 
             button {
                 padding: 17px 40px;
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 300;
                 font-size: 14px;
                 line-height: 17px;

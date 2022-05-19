@@ -35,8 +35,6 @@ export default {
         }
 
         & h5{
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 300;
             font-size: 16px;
             line-height: 19px;
@@ -47,8 +45,6 @@ export default {
         & input {
             padding: 14px 17px;
             border: 1px solid @color-gray;
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 300;
             font-size: 13px;
             line-height: 16px;

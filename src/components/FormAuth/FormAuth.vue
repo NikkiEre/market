@@ -110,8 +110,6 @@ export default {
 
     h5 {
         text-align: left;
-        font-family: 'Lato';
-        font-style: normal;
         font-weight: 300;
         font-size: 16px;
         line-height: 19px;
@@ -123,8 +121,6 @@ export default {
     input[type="email"] {
         padding: 13px 17px 16px;
         border: 1px solid @color-gray;
-        font-family: 'Lato';
-        font-style: normal;
         font-weight: 300;
         font-size: 13px;
         line-height: 16px;
@@ -138,8 +134,6 @@ export default {
     }
 
     p {
-        font-family: 'Lato';
-        font-style: normal;
         font-weight: 300;
         font-size: 13px;
         line-height: 16px;
@@ -166,8 +160,6 @@ export default {
         background-color: @color-pink;
         border: none;
         width: fit-content;
-        font-family: 'Lato';
-        font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 17px;

@@ -86,8 +86,6 @@ export default {
         }
 
         &__title {
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 700;
             font-size: 14px;
             line-height: 17px;
@@ -110,8 +108,6 @@ export default {
             }
 
             & a{
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 14px;
                 line-height: 17px;

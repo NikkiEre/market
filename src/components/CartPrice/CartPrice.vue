@@ -31,16 +31,12 @@ export default {
         }
 
         & p {
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 400;
             font-size: 16px;
             line-height: 19px;
             color: @color-dark-gray;
 
             &:first-child {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 11px;
                 line-height: 13px;
@@ -60,8 +56,6 @@ export default {
 
         & button{
             padding: 15px 42px;
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 300;
             font-size: 16px;
             line-height: 19px;

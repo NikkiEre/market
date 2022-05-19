@@ -83,8 +83,6 @@ export default {
         }
 
         &__text p{
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 400;
             font-size: 16px;
             line-height: 19px;

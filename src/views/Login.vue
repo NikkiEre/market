@@ -38,8 +38,6 @@ export default {
         justify-content: center;
 
         h1 {
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 900;
             font-size: 48px;
             line-height: 58px;
@@ -56,8 +54,6 @@ export default {
                 &[type="password"] {
                     padding: 13px 17px 16px;
                     border: 1px solid @color-gray;
-                    font-family: 'Lato';
-                    font-style: normal;
                     font-weight: 300;
                     font-size: 13px;
                     line-height: 16px;
@@ -67,8 +63,6 @@ export default {
 
                 &[type="submit"] {
                     border: 1px solid @color-pink;
-                    font-family: 'Lato';
-                    font-style: normal;
                     font-weight: 300;
                     font-size: 16px;
                     line-height: 20px;
@@ -94,8 +88,6 @@ export default {
         }
         p {
             margin-top: 20px;
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 300;
             font-size: 13px;
             line-height: 16px;

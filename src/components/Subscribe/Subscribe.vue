@@ -85,8 +85,6 @@ export default {
             }
 
             & p {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 20px;
                 line-height: 24px;
@@ -99,8 +97,6 @@ export default {
             max-width: 410px;
 
             & h4 {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 700;
                 font-size: 24px;
                 line-height: 29px;
@@ -110,8 +106,6 @@ export default {
             }
 
             & p {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 18px;
                 line-height: 30px;
@@ -124,8 +118,6 @@ export default {
             max-width: 360px;
 
             & h4 {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 700;
                 font-size: 24px;
                 line-height: 40px;
@@ -134,8 +126,6 @@ export default {
             }
 
             & p {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 18px;
                 line-height: 30px;
@@ -156,8 +146,6 @@ export default {
             border: none;
             background: @color-gray-light;
             flex: 3;
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 400;
             font-size: 14px;
             line-height: 17px;
@@ -172,8 +160,6 @@ export default {
             background: @color-pink;
             color: @color-white;
             flex: 1;
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 400;
             font-size: 14px;
             line-height: 17px;

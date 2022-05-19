@@ -2,7 +2,7 @@
     <li v-bind:class="['category-item', obj.img === 'acces' ? 'category-item_acces' : '']">
         <img src="../../img/woman.png" alt="item" v-if="obj.img === 'woman'"/>
         <img src="../../img/man.png" alt="item" v-else-if="obj.img === 'man'"/>
-        <img src="../../img/kid.png" alt="item" v-else-if="obj.img === 'kid'"/>
+        <img src="../../img/gadgets.jpg" alt="item" v-else-if="obj.img === 'gadgets'"/>
         <img src="../../img/acces.png" alt="item"  v-else-if="obj.img === 'acces'"/>
         <div class="category-item__text">
             <h5>{{obj.subtitle}}</h5>
@@ -27,6 +27,8 @@ export default {
 
         & img {
             width: 100%;
+            height: 100%;
+            object-fit: fill;
         }
 
         &_acces {
@@ -55,8 +57,6 @@ export default {
     }
 
     h5 {
-        font-family: 'Lato';
-        font-style: normal;
         font-weight: 400;
         font-size: 16px;
         line-height: 19px;
@@ -65,8 +65,6 @@ export default {
     }
 
     h4 {
-       font-family: 'Lato';
-        font-style: normal;
         font-weight: 700;
         font-size: 24px;
         line-height: 29px;

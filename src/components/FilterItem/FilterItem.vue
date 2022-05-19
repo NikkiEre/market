@@ -104,8 +104,6 @@ export default {
                 display: flex;
                 align-items: center;
                 gap: 10px;
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 14px;
                 line-height: 17px;

@@ -72,8 +72,6 @@ export default {
         &__details {
 
             &_main {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 600;
                 font-size: 14px;
                 line-height: 17px;
@@ -111,8 +109,6 @@ export default {
                 }
 
                 & > summary {
-                    font-family: 'Lato';
-                    font-style: normal;
                     font-weight: 400;
                     font-size: 14px;
                     line-height: 17px;
@@ -147,8 +143,6 @@ export default {
 
             label {
                 text-transform: capitalize;
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 14px;
                 line-height: 17px;

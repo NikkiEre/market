@@ -120,8 +120,6 @@ export default {
             & > h3 {
                 margin-bottom: 6px;
                 text-align: center;
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 30px;
                 line-height: 36px;
@@ -129,8 +127,6 @@ export default {
             }
 
             & > p {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 14px;
                 line-height: 17px;
@@ -151,8 +147,6 @@ export default {
         display: inline-block;
         padding: 15px 40px;
         margin-top: 48px;
-        font-family: 'Lato';
-        font-style: normal;
         font-weight: 400;
         font-size: 16px;
         line-height: 19px;

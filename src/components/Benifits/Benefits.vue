@@ -72,8 +72,6 @@ export default {
             }
 
             & h5 {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 400;
                 font-size: 19.96px;
                 line-height: 24px;
@@ -81,8 +79,6 @@ export default {
             }
 
             & p {
-                font-family: 'Lato';
-                font-style: normal;
                 font-weight: 300;
                 font-size: 13.972px;
                 line-height: 17px;

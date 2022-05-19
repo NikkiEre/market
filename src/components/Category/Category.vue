@@ -28,9 +28,9 @@ export default {
                    img: "man", 
                 },
                 {
-                   title: "FOR KIDS",
+                   title: "GADGETS",
                    subtitle: "NEW ARRIVALS",
-                   img: "kid", 
+                   img: "gadgets", 
                 },
                 {
                    title: "ACCESORIES",

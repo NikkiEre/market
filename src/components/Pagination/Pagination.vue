@@ -77,8 +77,6 @@ export default {
         }
 
         &__link {
-            font-family: 'Lato';
-            font-style: normal;
             font-weight: 300;
             font-size: 16px;
             line-height: 19px;

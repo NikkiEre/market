@@ -55,8 +55,6 @@ export default {
     }
 
     h1 {
-        font-family: 'Lato';
-        font-style: normal;
         font-weight: 900;
         font-size: 48px;
         line-height: 58px;
@@ -74,8 +72,6 @@ export default {
     }
 
     h2 {
-        font-family: 'Lato';
-        font-style: normal;
         font-weight: 700;
         font-size: 32px;
         line-height: 38px;
